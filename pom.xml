@@ -121,6 +121,9 @@
                 <executions>
                     <execution>
                         <id>attach-javadoc</id>
+                        <goals>
+                            <goal>jar</goal>
+                        </goals>
                     </execution>
                 </executions>
             </plugin>
