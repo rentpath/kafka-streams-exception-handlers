@@ -7,6 +7,15 @@
     <artifactId>kafka-streams-exception-handlers</artifactId>
     <name>Kafka Streams Exception Handlers</name>
     <version>0.1.0-SNAPSHOT</version>
+    <url>https://github.com/rentpath/kafka-streams-exception-handlers</url>
+    <developers>
+        <developer>
+            <email>jholland@rentpath.com</email>
+            <name>Jeremy Holland</name>
+            <organization>RentPath</organization>
+            <organizationUrl>https://rentpath.com</organizationUrl>
+        </developer>
+    </developers>
     <description>
         Custom exception handler classes for Kafka Streams to engage reporting to external services such as Sentry
     </description>
